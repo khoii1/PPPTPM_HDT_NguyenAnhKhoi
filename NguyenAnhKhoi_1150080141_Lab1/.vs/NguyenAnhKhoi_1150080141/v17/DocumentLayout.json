@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F25B2F03-4228-4220-A754-23AA143DC8E1}|NguyenAnhKhoi_1150080141\\NguyenAnhKhoi_1150080141.csproj|c:\\baitap_tuan5_ppptpm\\nguyenanhkhoi_1150080141\\nguyenanhkhoi_1150080141\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25B2F03-4228-4220-A754-23AA143DC8E1}|NguyenAnhKhoi_1150080141\\NguyenAnhKhoi_1150080141.csproj|solutionrelative:nguyenanhkhoi_1150080141\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 903,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141\\NguyenAnhKhoi_1150080141\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenAnhKhoi_1150080141\\Program.cs",
+              "ToolTip": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141\\NguyenAnhKhoi_1150080141\\Program.cs",
+              "RelativeToolTip": "NguyenAnhKhoi_1150080141\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:05:36.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
