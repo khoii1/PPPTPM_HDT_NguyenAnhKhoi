@@ -1,0 +1,10 @@
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH2\Lab2_TH2\bin\Debug\Lab2_TH2.exe.config
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH2\Lab2_TH2\bin\Debug\Lab2_TH2.exe
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH2\Lab2_TH2\bin\Debug\Lab2_TH2.pdb
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH2\Lab2_TH2\obj\Debug\Lab2_TH2.csproj.AssemblyReference.cache
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH2\Lab2_TH2\obj\Debug\ApDung1.Form1.resources
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH2\Lab2_TH2\obj\Debug\Lab2_TH2.Properties.Resources.resources
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH2\Lab2_TH2\obj\Debug\Lab2_TH2.csproj.GenerateResource.cache
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH2\Lab2_TH2\obj\Debug\Lab2_TH2.csproj.CoreCompileInputs.cache
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH2\Lab2_TH2\obj\Debug\Lab2_TH2.exe
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH2\Lab2_TH2\obj\Debug\Lab2_TH2.pdb

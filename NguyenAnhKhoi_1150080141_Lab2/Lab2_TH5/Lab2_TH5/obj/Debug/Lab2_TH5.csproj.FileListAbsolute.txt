@@ -1,0 +1,10 @@
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH5\Lab2_TH5\bin\Debug\Lab2_TH5.exe.config
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH5\Lab2_TH5\bin\Debug\Lab2_TH5.exe
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH5\Lab2_TH5\bin\Debug\Lab2_TH5.pdb
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH5\Lab2_TH5\obj\Debug\Lab2_TH5.csproj.AssemblyReference.cache
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH5\Lab2_TH5\obj\Debug\XuLyDaySoApp.frmDangNhap.resources
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH5\Lab2_TH5\obj\Debug\Lab2_TH5.Properties.Resources.resources
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH5\Lab2_TH5\obj\Debug\Lab2_TH5.csproj.GenerateResource.cache
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH5\Lab2_TH5\obj\Debug\Lab2_TH5.csproj.CoreCompileInputs.cache
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH5\Lab2_TH5\obj\Debug\Lab2_TH5.exe
+C:\baitap_tuan5_PPPTPM\NguyenAnhKhoi_1150080141_Lab2\Lab2_TH5\Lab2_TH5\obj\Debug\Lab2_TH5.pdb

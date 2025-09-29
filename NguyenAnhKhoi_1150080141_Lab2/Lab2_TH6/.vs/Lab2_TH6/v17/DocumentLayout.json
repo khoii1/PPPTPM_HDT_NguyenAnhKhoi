@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBF24BC-F44B-47DD-8E5D-542AFACA44E2}|Lab2_TH6\\Lab2_TH6.csproj|c:\\baitap_tuan5_ppptpm\\nguyenanhkhoi_1150080141_lab2\\lab2_th6\\lab2_th6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBF24BC-F44B-47DD-8E5D-542AFACA44E2}|Lab2_TH6\\Lab2_TH6.csproj|solutionrelative:lab2_th6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBF24BC-F44B-47DD-8E5D-542AFACA44E2}|Lab2_TH6\\Lab2_TH6.csproj|c:\\baitap_tuan5_ppptpm\\nguyenanhkhoi_1150080141_lab2\\lab2_th6\\lab2_th6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBF24BC-F44B-47DD-8E5D-542AFACA44E2}|Lab2_TH6\\Lab2_TH6.csproj|solutionrelative:lab2_th6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBF24BC-F44B-47DD-8E5D-542AFACA44E2}|Lab2_TH6\\Lab2_TH6.csproj|c:\\baitap_tuan5_ppptpm\\nguyenanhkhoi_1150080141_lab2\\lab2_th6\\lab2_th6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BBF24BC-F44B-47DD-8E5D-542AFACA44E2}|Lab2_TH6\\Lab2_TH6.csproj|solutionrelative:lab2_th6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BBF24BC-F44B-47DD-8E5D-542AFACA44E2}|Lab2_TH6\\Lab2_TH6.csproj|c:\\baitap_tuan5_ppptpm\\nguyenanhkhoi_1150080141_lab2\\lab2_th6\\lab2_th6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BBF24BC-F44B-47DD-8E5D-542AFACA44E2}|Lab2_TH6\\Lab2_TH6.csproj|solutionrelative:lab2_th6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 903,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH6\\Lab2_TH6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab2_TH6\\Form1.Designer.cs",
+              "ToolTip": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH6\\Lab2_TH6\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab2_TH6\\Form1.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:36:08.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH6\\Lab2_TH6\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_TH6\\Program.cs",
+              "ToolTip": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH6\\Lab2_TH6\\Program.cs",
+              "RelativeToolTip": "Lab2_TH6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:31:29.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH6\\Lab2_TH6\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab2_TH6\\Form1.cs",
+              "ToolTip": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH6\\Lab2_TH6\\Form1.cs",
+              "RelativeToolTip": "Lab2_TH6\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:31:15.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH6\\Lab2_TH6\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab2_TH6\\Form1.cs",
+              "ToolTip": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH6\\Lab2_TH6\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab2_TH6\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:30:10.29Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

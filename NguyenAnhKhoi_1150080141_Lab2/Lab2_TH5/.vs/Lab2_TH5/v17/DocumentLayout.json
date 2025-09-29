@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAD34E6-078F-4F43-B713-0ED59752B564}|Lab2_TH5\\Lab2_TH5.csproj|c:\\baitap_tuan5_ppptpm\\nguyenanhkhoi_1150080141_lab2\\lab2_th5\\lab2_th5\\frmxulyso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAD34E6-078F-4F43-B713-0ED59752B564}|Lab2_TH5\\Lab2_TH5.csproj|solutionrelative:lab2_th5\\frmxulyso.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAD34E6-078F-4F43-B713-0ED59752B564}|Lab2_TH5\\Lab2_TH5.csproj|c:\\baitap_tuan5_ppptpm\\nguyenanhkhoi_1150080141_lab2\\lab2_th5\\lab2_th5\\frmxulyso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAD34E6-078F-4F43-B713-0ED59752B564}|Lab2_TH5\\Lab2_TH5.csproj|solutionrelative:lab2_th5\\frmxulyso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAD34E6-078F-4F43-B713-0ED59752B564}|Lab2_TH5\\Lab2_TH5.csproj|c:\\baitap_tuan5_ppptpm\\nguyenanhkhoi_1150080141_lab2\\lab2_th5\\lab2_th5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAD34E6-078F-4F43-B713-0ED59752B564}|Lab2_TH5\\Lab2_TH5.csproj|solutionrelative:lab2_th5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAD34E6-078F-4F43-B713-0ED59752B564}|Lab2_TH5\\Lab2_TH5.csproj|c:\\baitap_tuan5_ppptpm\\nguyenanhkhoi_1150080141_lab2\\lab2_th5\\lab2_th5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFAD34E6-078F-4F43-B713-0ED59752B564}|Lab2_TH5\\Lab2_TH5.csproj|solutionrelative:lab2_th5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFAD34E6-078F-4F43-B713-0ED59752B564}|Lab2_TH5\\Lab2_TH5.csproj|c:\\baitap_tuan5_ppptpm\\nguyenanhkhoi_1150080141_lab2\\lab2_th5\\lab2_th5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFAD34E6-078F-4F43-B713-0ED59752B564}|Lab2_TH5\\Lab2_TH5.csproj|solutionrelative:lab2_th5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 903,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmXuLySo.Designer.cs",
+              "DocumentMoniker": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\Lab2_TH5\\frmXuLySo.Designer.cs",
+              "RelativeDocumentMoniker": "Lab2_TH5\\frmXuLySo.Designer.cs",
+              "ToolTip": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\Lab2_TH5\\frmXuLySo.Designer.cs",
+              "RelativeToolTip": "Lab2_TH5\\frmXuLySo.Designer.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAowIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:10:44.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmXuLySo.cs",
+              "DocumentMoniker": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\Lab2_TH5\\frmXuLySo.cs",
+              "RelativeDocumentMoniker": "Lab2_TH5\\frmXuLySo.cs",
+              "ToolTip": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\Lab2_TH5\\frmXuLySo.cs",
+              "RelativeToolTip": "Lab2_TH5\\frmXuLySo.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:08:30.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\Lab2_TH5\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_TH5\\Program.cs",
+              "ToolTip": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\Lab2_TH5\\Program.cs",
+              "RelativeToolTip": "Lab2_TH5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:07:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\Lab2_TH5\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab2_TH5\\Form1.cs",
+              "ToolTip": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\Lab2_TH5\\Form1.cs",
+              "RelativeToolTip": "Lab2_TH5\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:06:53.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\Lab2_TH5\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab2_TH5\\Form1.cs",
+              "ToolTip": "C:\\baitap_tuan5_PPPTPM\\NguyenAnhKhoi_1150080141_Lab2\\Lab2_TH5\\Lab2_TH5\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab2_TH5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:06:41.1Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
